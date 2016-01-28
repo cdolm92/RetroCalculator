@@ -1,7 +1,7 @@
 # RetroCalculator
 
 
-Calculator written in Swift.
+It’s a calculator, with no clear button….yet!
 
 Here I make use of UIStackViews.
 
